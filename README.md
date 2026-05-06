@@ -5,7 +5,7 @@ XÂY DỰNG WEBSITE GIỚI THIỆU STUDIO DỊCH VỤ CHỤP ẢNH
 ## 🎓 THÔNG TIN SINH VIÊN
 * **Họ và tên:** Danh Thanh Bình
 * **Mã số sinh viên:** 170123022
-* **Lớp:** DX23TT9
+* **Mã Lớp:** DX23TT9
 * **Giảng viên hướng dẫn:** ThS. Dương Ngọc Vân Khanh
 
 ---
